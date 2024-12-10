@@ -20,3 +20,13 @@ Texto normal de prueba para agregar markdown's
 ``` php 
 echo('Hola Mundo')
 ```
+
+#### Ejemplo de checklist 
+
+- [X] Clonar repositorio
+- [X] Realizar headers
+- [X] Agregar Imagenes
+- [X] Agregar Codigo de ejemplo
+- [ ] Agregar taks list/marcadores/lista
+- [ ] Finalizar el curso
+ 
